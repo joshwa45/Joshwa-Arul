@@ -286,4 +286,4 @@ Built something awesome with these templates? We'd love to see it! Share your po
 
 **Happy coding!** 🎉
 
-Built with ❤️ using [Astro](https://astro.build)
+Built with ❤️ by [DSC SIST x skxdev](https://gdsc-base.framer.ai)
